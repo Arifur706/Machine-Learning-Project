@@ -1,3 +1,7 @@
 Chnage and push
 
 Change and pull
+
+Branch and marge 
+
+chnage in local branch and push
