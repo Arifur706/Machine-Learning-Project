@@ -5,3 +5,6 @@ Change and pull
 Branche create and marge
 
 change locally and push
+
+change locally and marge locally
+
