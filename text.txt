@@ -1,3 +1,5 @@
-Chnage and push
+Change and push
 
 Change and pull
+
+Branche create and marge
